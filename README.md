@@ -1,4 +1,4 @@
-# TCP-Like Protocol Simulation (Option C)
+# TCP-Like Protocol Simulation
 
 This project simulates a reliable transport protocol (TCP) featuring a Sliding Window, Cumulative ACKs, Single Retransmission Timer, and Fast Retransmit logic. It uses a graphical interface to visualize packet flow and packet loss recovery.
 
