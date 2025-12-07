@@ -9,12 +9,12 @@ Below are the Finite State Machine (FSM) diagrams illustrating the logic used fo
 ### Sender FSM
 *(Handles window management, timeouts, and fast retransmit)*
 
-![Sender FSM Diagram](sender_fsm.png)
+![Sender FSM Diagram](diagrams/sender_fsm.png)
 
 ### Receiver FSM
 *(Handles out-of-order buffering and cumulative ACKs)*
 
-![Receiver FSM Diagram](receiver_fsm.png)
+![Receiver FSM Diagram](diagrams/receiver_fsm.png)
 
 ## Prerequisites
 
